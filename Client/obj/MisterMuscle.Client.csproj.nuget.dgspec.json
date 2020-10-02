@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\desenvolvimentos\\MisterMuscle\\Client\\MisterMuscle.Client.csproj": {}
+    "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Client\\MisterMuscle.Client.csproj": {}
   },
   "projects": {
-    "C:\\desenvolvimentos\\MisterMuscle\\Client\\MisterMuscle.Client.csproj": {
+    "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Client\\MisterMuscle.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\desenvolvimentos\\MisterMuscle\\Client\\MisterMuscle.Client.csproj",
+        "projectUniqueName": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Client\\MisterMuscle.Client.csproj",
         "projectName": "MisterMuscle.Client",
-        "projectPath": "C:\\desenvolvimentos\\MisterMuscle\\Client\\MisterMuscle.Client.csproj",
-        "packagesPath": "C:\\Users\\ze_ma\\.nuget\\packages\\",
-        "outputPath": "C:\\desenvolvimentos\\MisterMuscle\\Client\\obj\\",
+        "projectPath": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Client\\MisterMuscle.Client.csproj",
+        "packagesPath": "C:\\Users\\heron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ze_ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\heron\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\desenvolvimentos\\MisterMuscle\\Shared\\MisterMuscle.Shared.csproj": {
-                "projectPath": "C:\\desenvolvimentos\\MisterMuscle\\Shared\\MisterMuscle.Shared.csproj"
+              "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Shared\\MisterMuscle.Shared.csproj": {
+                "projectPath": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Shared\\MisterMuscle.Shared.csproj"
               }
             }
           }
@@ -78,17 +78,17 @@
         }
       }
     },
-    "C:\\desenvolvimentos\\MisterMuscle\\Shared\\MisterMuscle.Shared.csproj": {
+    "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Shared\\MisterMuscle.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\desenvolvimentos\\MisterMuscle\\Shared\\MisterMuscle.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Shared\\MisterMuscle.Shared.csproj",
         "projectName": "MisterMuscle.Shared",
-        "projectPath": "C:\\desenvolvimentos\\MisterMuscle\\Shared\\MisterMuscle.Shared.csproj",
-        "packagesPath": "C:\\Users\\ze_ma\\.nuget\\packages\\",
-        "outputPath": "C:\\desenvolvimentos\\MisterMuscle\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Shared\\MisterMuscle.Shared.csproj",
+        "packagesPath": "C:\\Users\\heron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ze_ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\heron\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"

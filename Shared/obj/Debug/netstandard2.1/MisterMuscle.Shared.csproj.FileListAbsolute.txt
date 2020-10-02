@@ -7,3 +7,12 @@ C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Sh
 C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.csproj.CoreCompileInputs.cache
 C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.dll
 C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.pdb
+C:\Users\heron\OneDrive\Documentos\Área de Trabalho\Univem\Projeto Integrador\mister-muscle\Shared\bin\Debug\netstandard2.1\MisterMuscle.Shared.deps.json
+C:\Users\heron\OneDrive\Documentos\Área de Trabalho\Univem\Projeto Integrador\mister-muscle\Shared\bin\Debug\netstandard2.1\MisterMuscle.Shared.dll
+C:\Users\heron\OneDrive\Documentos\Área de Trabalho\Univem\Projeto Integrador\mister-muscle\Shared\bin\Debug\netstandard2.1\MisterMuscle.Shared.pdb
+C:\Users\heron\OneDrive\Documentos\Área de Trabalho\Univem\Projeto Integrador\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.csprojAssemblyReference.cache
+C:\Users\heron\OneDrive\Documentos\Área de Trabalho\Univem\Projeto Integrador\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.AssemblyInfoInputs.cache
+C:\Users\heron\OneDrive\Documentos\Área de Trabalho\Univem\Projeto Integrador\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.AssemblyInfo.cs
+C:\Users\heron\OneDrive\Documentos\Área de Trabalho\Univem\Projeto Integrador\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.csproj.CoreCompileInputs.cache
+C:\Users\heron\OneDrive\Documentos\Área de Trabalho\Univem\Projeto Integrador\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.dll
+C:\Users\heron\OneDrive\Documentos\Área de Trabalho\Univem\Projeto Integrador\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.pdb
