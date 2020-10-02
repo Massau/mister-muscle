@@ -2879,6 +2879,39 @@
         }
       },
       {
+        "HashCode": -1665331670,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.Pages.Cliente.CadastroCliente",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CadastroCliente"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.Pages.Cliente.CadastroCliente"
+        }
+      },
+      {
+        "HashCode": 1671923948,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.Pages.Cliente.CadastroCliente",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MisterMuscle.Client.Pages.Cliente.CadastroCliente"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.Pages.Cliente.CadastroCliente",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1623458106,
         "Kind": "Components.Component",
         "Name": "MisterMuscle.Client.Pages.Counter",

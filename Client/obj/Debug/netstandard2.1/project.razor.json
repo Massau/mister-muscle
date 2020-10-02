@@ -8,6 +8,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1829713533,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.App",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.App"
+        }
+      },
+      {
+        "HashCode": -1464731249,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.App",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MisterMuscle.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1623458106,
         "Kind": "Components.Component",
         "Name": "MisterMuscle.Client.Pages.Counter",
@@ -140,55 +173,35 @@
         }
       },
       {
-        "HashCode": 1717536876,
+        "HashCode": -2130075676,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Shared.SurveyPrompt",
+        "Name": "MisterMuscle.Client.Pages.Cliente.LoginCliente",
         "AssemblyName": "MisterMuscle.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "LoginCliente"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "MisterMuscle.Client.Pages.Cliente.LoginCliente"
         }
       },
       {
-        "HashCode": 1925913288,
+        "HashCode": -1940854281,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Shared.SurveyPrompt",
+        "Name": "MisterMuscle.Client.Pages.Cliente.LoginCliente",
         "AssemblyName": "MisterMuscle.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MisterMuscle.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "MisterMuscle.Client.Pages.Cliente.LoginCliente"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "MisterMuscle.Client.Pages.Cliente.LoginCliente",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,6 +302,59 @@
         }
       },
       {
+        "HashCode": 1717536876,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.Shared.SurveyPrompt",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 1925913288,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.Shared.SurveyPrompt",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MisterMuscle.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1118352887,
         "Kind": "Components.Component",
         "Name": "MisterMuscle.Client.Shared.NavMenu",
@@ -322,35 +388,35 @@
         }
       },
       {
-        "HashCode": 1829713533,
+        "HashCode": 694486684,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.App",
-        "AssemblyName": "MisterMuscle.Client",
+        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
+        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "ObjectGraphDataAnnotationsValidator"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.App"
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
         }
       },
       {
-        "HashCode": -1464731249,
+        "HashCode": 142234791,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.App",
-        "AssemblyName": "MisterMuscle.Client",
+        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
+        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MisterMuscle.Client.App"
+            "TagName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.App",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -2431,39 +2497,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 694486684,
-        "Kind": "Components.Component",
-        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
-        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ObjectGraphDataAnnotationsValidator"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
-        }
-      },
-      {
-        "HashCode": 142234791,
-        "Kind": "Components.Component",
-        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
-        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -11860,6 +11893,11 @@
     {
       "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\Pages\\Cliente\\LoginCliente.razor",
+      "TargetPath": "Pages\\Cliente\\LoginCliente.razor",
       "FileKind": "component"
     },
     {
