@@ -1,0 +1,41 @@
+@page "/Cadastre-se"
+
+
+<div class="d-flex justify-content-center">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="card-title mt-2">Cadastre-se</h4>
+            </div>
+            <div class="card-body">
+                <EditForm Model="@cliente">
+                    <div class="form-row">
+                        <div class="form-group col">
+                            <label>Nome Completo</label>
+                            <InputText @bind-Value="cliente.Nome" class="form-control" />
+                            <ValidationMessage For="@(() => cliente.Nome)" />
+                        </div>
+                    </div>
+
+                </EditForm>
+            </div>
+        </div>
+
+
+    </div>
+
+</div>
+
+
+
+
+@code {
+    private Cliente cliente = new Cliente();
+    private EditContext editContext { get; set; }
+
+    private void HandleReset()
+    {
+        cliente = new Cliente();
+        editContext = new EditContext(cliente);
+    }
+}

@@ -1,0 +1,9 @@
+C:\desenvolvimentos\MisterMuscle\Shared\bin\Debug\netstandard2.1\MisterMuscle.Shared.deps.json
+C:\desenvolvimentos\MisterMuscle\Shared\bin\Debug\netstandard2.1\MisterMuscle.Shared.dll
+C:\desenvolvimentos\MisterMuscle\Shared\bin\Debug\netstandard2.1\MisterMuscle.Shared.pdb
+C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.csprojAssemblyReference.cache
+C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.AssemblyInfoInputs.cache
+C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.AssemblyInfo.cs
+C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.csproj.CoreCompileInputs.cache
+C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.dll
+C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.pdb
