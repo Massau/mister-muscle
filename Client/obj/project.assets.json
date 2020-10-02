@@ -1685,19 +1685,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\heron\\.nuget\\packages\\": {}
+    "C:\\Users\\ze_ma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Client\\MisterMuscle.Client.csproj",
+      "projectUniqueName": "C:\\desenvolvimentos\\MisterMuscle\\Client\\MisterMuscle.Client.csproj",
       "projectName": "MisterMuscle.Client",
-      "projectPath": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Client\\MisterMuscle.Client.csproj",
-      "packagesPath": "C:\\Users\\heron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Client\\obj\\",
+      "projectPath": "C:\\desenvolvimentos\\MisterMuscle\\Client\\MisterMuscle.Client.csproj",
+      "packagesPath": "C:\\Users\\ze_ma\\.nuget\\packages\\",
+      "outputPath": "C:\\desenvolvimentos\\MisterMuscle\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\heron\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ze_ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -1708,8 +1708,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Shared\\MisterMuscle.Shared.csproj": {
-              "projectPath": "C:\\Users\\heron\\OneDrive\\Documentos\\Área de Trabalho\\Univem\\Projeto Integrador\\mister-muscle\\Shared\\MisterMuscle.Shared.csproj"
+            "C:\\desenvolvimentos\\MisterMuscle\\Shared\\MisterMuscle.Shared.csproj": {
+              "projectPath": "C:\\desenvolvimentos\\MisterMuscle\\Shared\\MisterMuscle.Shared.csproj"
             }
           }
         }
