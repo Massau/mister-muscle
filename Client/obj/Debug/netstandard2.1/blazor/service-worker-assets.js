@@ -65,7 +65,11 @@
       "url": "manifest.json"
     },
     {
+<<<<<<< HEAD
       "hash": "sha256-7\/LlMJKCo7orefiCW+2khwRlD6p7NAKU8e4qf+fnvY8=",
+=======
+      "hash": "sha256-ciN1i\/HT7sxXUvGwEiZIpwJgPMBtZMXGHwHLSNaLdko=",
+>>>>>>> 6fa5ad33483019e74c9c61b6eb38207db291e9d7
       "url": "_framework\/_bin\/MisterMuscle.Client.dll"
     },
     {
@@ -189,8 +193,16 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
+<<<<<<< HEAD
       "hash": "sha256-s41ddORH37Mrfl5jrz8NZZGZxva4GIOJZRNYlvNSHw4=",
+=======
+      "hash": "sha256-erbNvDUARBcVqLmDSAKoAGWnU+F\/VOzL2ostElVulrY=",
+>>>>>>> 6fa5ad33483019e74c9c61b6eb38207db291e9d7
       "url": "_framework\/_bin\/MisterMuscle.Shared.dll"
+    },
+    {
+      "hash": "sha256-VGaB03HIjFg4jeK7BomIFzlhhY3vW5N+jWuRqZkbJsY=",
+      "url": "_framework\/_bin\/Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll"
     },
     {
       "hash": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
@@ -273,11 +285,19 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
+<<<<<<< HEAD
       "hash": "sha256-PZJvJgch1hzxH4RGmS2YIIqcBALG\/3TPQELyjTudnXQ=",
       "url": "_framework\/_bin\/MisterMuscle.Client.pdb"
     },
     {
       "hash": "sha256-BKOTvalaqCBxVWLgxHIozLVDdRCLzSpAZ1abrgML14A=",
+=======
+      "hash": "sha256-d1YmrSwyPbFv8AbwIRK2FgMDYi1b\/9e2ZRmhA+1O5E4=",
+      "url": "_framework\/_bin\/MisterMuscle.Client.pdb"
+    },
+    {
+      "hash": "sha256-vEHcBn+Urn5rS6aFFfTbaSu0HkozUAII27XoBTV6Bnc=",
+>>>>>>> 6fa5ad33483019e74c9c61b6eb38207db291e9d7
       "url": "_framework\/_bin\/MisterMuscle.Shared.pdb"
     },
     {
@@ -297,9 +317,17 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
+<<<<<<< HEAD
       "hash": "sha256-pjLEiCZ2FAqJMG64qpeohR\/0Git+tFVuuLo7GWJYxPU=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
   "version": "RByrarRQ"
+=======
+      "hash": "sha256-BiGgfMc0EBJziEr3rSKXP7Z95ZYjbwUiGJJSWIBDiMI=",
+      "url": "_framework\/blazor.boot.json"
+    }
+  ],
+  "version": "4vo04asf"
+>>>>>>> 6fa5ad33483019e74c9c61b6eb38207db291e9d7
 };

@@ -1,8 +1,13 @@
 {
   "FilesToCompress": [
     {
+<<<<<<< HEAD
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\7-LlMJKCo7orefiCW_2khwRlD6p7NAKU8e4qf_fnvY8=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Client.dll",
+=======
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ciN1i-HT7sxXUvGwEiZIpwJgPMBtZMXGHwHLSNaLdko=.hash",
+      "Source": "C:\\desenvolvimentos\\MisterMuscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Client.dll",
+>>>>>>> 6fa5ad33483019e74c9c61b6eb38207db291e9d7
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MisterMuscle.Client.dll.br"
     },
     {
@@ -156,9 +161,19 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
+<<<<<<< HEAD
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\s41ddORH37Mrfl5jrz8NZZGZxva4GIOJZRNYlvNSHw4=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Shared.dll",
+=======
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\erbNvDUARBcVqLmDSAKoAGWnU_F-VOzL2ostElVulrY=.hash",
+      "Source": "C:\\desenvolvimentos\\MisterMuscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Shared.dll",
+>>>>>>> 6fa5ad33483019e74c9c61b6eb38207db291e9d7
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MisterMuscle.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\VGaB03HIjFg4jeK7BomIFzlhhY3vW5N_jWuRqZkbJsY=.hash",
+      "Source": "C:\\desenvolvimentos\\MisterMuscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.br"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash",
@@ -261,6 +276,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
+<<<<<<< HEAD
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PZJvJgch1hzxH4RGmS2YIIqcBALG-3TPQELyjTudnXQ=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MisterMuscle.Client.pdb.br"
@@ -268,6 +284,15 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BKOTvalaqCBxVWLgxHIozLVDdRCLzSpAZ1abrgML14A=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Shared.pdb",
+=======
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\d1YmrSwyPbFv8AbwIRK2FgMDYi1b-9e2ZRmhA_1O5E4=.hash",
+      "Source": "C:\\desenvolvimentos\\MisterMuscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Client.pdb",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MisterMuscle.Client.pdb.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vEHcBn_Urn5rS6aFFfTbaSu0HkozUAII27XoBTV6Bnc=.hash",
+      "Source": "C:\\desenvolvimentos\\MisterMuscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Shared.pdb",
+>>>>>>> 6fa5ad33483019e74c9c61b6eb38207db291e9d7
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MisterMuscle.Shared.pdb.br"
     },
     {
@@ -291,6 +316,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
+<<<<<<< HEAD
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pjLEiCZ2FAqJMG64qpeohR-0Git_tFVuuLo7GWJYxPU=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
@@ -298,6 +324,15 @@
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZMGBF__n7wEAFR7VkbUrUxxtTo6TmIop1vuAP3R9i2c=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
+=======
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BiGgfMc0EBJziEr3rSKXP7Z95ZYjbwUiGJJSWIBDiMI=.hash",
+      "Source": "C:\\desenvolvimentos\\MisterMuscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DyHHteLNY34Ov9opqNwMYkqvM5jfHLGsfeYRttmIuEk=.hash",
+      "Source": "C:\\desenvolvimentos\\MisterMuscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
+>>>>>>> 6fa5ad33483019e74c9c61b6eb38207db291e9d7
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }
   ]
