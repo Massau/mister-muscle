@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\nyRz2HPlfDMFlE6p4-vHObIybbuNIQbor6owUpeLdlU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\7-LlMJKCo7orefiCW_2khwRlD6p7NAKU8e4qf_fnvY8=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MisterMuscle.Client.dll.br"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\JkOEg2s9ep8Dn8OLdTW6qV6RSIW2NDBCMbS98R7Nh80=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PZJvJgch1hzxH4RGmS2YIIqcBALG-3TPQELyjTudnXQ=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MisterMuscle.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MisterMuscle.Client.pdb.br"
     },
@@ -291,12 +291,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jgDIi1uUeoiF3p1CC7n-7Yh4ye-tCii90LpORljRs0E=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pjLEiCZ2FAqJMG64qpeohR-0Git_tFVuuLo7GWJYxPU=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\meC-1DaDc3J8pxOpNv0SpXF2PK2Q9_QY6YxTjRQo0co=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZMGBF__n7wEAFR7VkbUrUxxtTo6TmIop1vuAP3R9i2c=.hash",
       "Source": "D:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

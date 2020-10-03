@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-nyRz2HPlfDMFlE6p4\/vHObIybbuNIQbor6owUpeLdlU=",
+      "hash": "sha256-7\/LlMJKCo7orefiCW+2khwRlD6p7NAKU8e4qf+fnvY8=",
       "url": "_framework\/_bin\/MisterMuscle.Client.dll"
     },
     {
@@ -273,7 +273,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-JkOEg2s9ep8Dn8OLdTW6qV6RSIW2NDBCMbS98R7Nh80=",
+      "hash": "sha256-PZJvJgch1hzxH4RGmS2YIIqcBALG\/3TPQELyjTudnXQ=",
       "url": "_framework\/_bin\/MisterMuscle.Client.pdb"
     },
     {
@@ -297,9 +297,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-jgDIi1uUeoiF3p1CC7n\/7Yh4ye\/tCii90LpORljRs0E=",
+      "hash": "sha256-pjLEiCZ2FAqJMG64qpeohR\/0Git+tFVuuLo7GWJYxPU=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "F42SZpn2"
+  "version": "RByrarRQ"
 };

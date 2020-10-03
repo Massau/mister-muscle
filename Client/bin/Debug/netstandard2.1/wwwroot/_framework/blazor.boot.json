@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "MisterMuscle.Client.dll": "sha256-nyRz2HPlfDMFlE6p4\/vHObIybbuNIQbor6owUpeLdlU=",
+      "MisterMuscle.Client.dll": "sha256-7\/LlMJKCo7orefiCW+2khwRlD6p7NAKU8e4qf+fnvY8=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-Bs1Wrmh4ex9dTEIT0yCRF52N\/wOmsBDt457BHr0\/ssM=",
       "netstandard.dll": "sha256-\/zcPVM75OAY+joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=",
       "System.Xml.Linq.dll": "sha256-IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=",
@@ -60,7 +60,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "MisterMuscle.Client.pdb": "sha256-JkOEg2s9ep8Dn8OLdTW6qV6RSIW2NDBCMbS98R7Nh80=",
+      "MisterMuscle.Client.pdb": "sha256-PZJvJgch1hzxH4RGmS2YIIqcBALG\/3TPQELyjTudnXQ=",
       "MisterMuscle.Shared.pdb": "sha256-BKOTvalaqCBxVWLgxHIozLVDdRCLzSpAZ1abrgML14A="
     },
     "runtime": {
