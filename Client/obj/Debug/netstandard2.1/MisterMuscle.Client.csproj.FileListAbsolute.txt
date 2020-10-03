@@ -774,3 +774,4 @@ C:\desenvolvimentos\MisterMuscle\Client\obj\Debug\netstandard2.1\integrity\d1Ymr
 C:\desenvolvimentos\MisterMuscle\Client\obj\Debug\netstandard2.1\integrity\BiGgfMc0EBJziEr3rSKXP7Z95ZYjbwUiGJJSWIBDiMI=.hash
 C:\desenvolvimentos\MisterMuscle\Client\obj\Debug\netstandard2.1\integrity\DyHHteLNY34Ov9opqNwMYkqvM5jfHLGsfeYRttmIuEk=.hash
 >>>>>>> 6fa5ad33483019e74c9c61b6eb38207db291e9d7
+D:\Univem\Navarro\misterMuscle\mister-muscle\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cliente\LoginCliente.razor.g.cs
