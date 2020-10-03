@@ -7,3 +7,12 @@ C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Sh
 C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.csproj.CoreCompileInputs.cache
 C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.dll
 C:\desenvolvimentos\MisterMuscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.pdb
+D:\Univem\Navarro\misterMuscle\mister-muscle\Shared\bin\Debug\netstandard2.1\MisterMuscle.Shared.deps.json
+D:\Univem\Navarro\misterMuscle\mister-muscle\Shared\bin\Debug\netstandard2.1\MisterMuscle.Shared.dll
+D:\Univem\Navarro\misterMuscle\mister-muscle\Shared\bin\Debug\netstandard2.1\MisterMuscle.Shared.pdb
+D:\Univem\Navarro\misterMuscle\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.csprojAssemblyReference.cache
+D:\Univem\Navarro\misterMuscle\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.AssemblyInfoInputs.cache
+D:\Univem\Navarro\misterMuscle\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.AssemblyInfo.cs
+D:\Univem\Navarro\misterMuscle\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.csproj.CoreCompileInputs.cache
+D:\Univem\Navarro\misterMuscle\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.dll
+D:\Univem\Navarro\misterMuscle\mister-muscle\Shared\obj\Debug\netstandard2.1\MisterMuscle.Shared.pdb

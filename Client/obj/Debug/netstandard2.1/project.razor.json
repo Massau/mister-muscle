@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\MisterMuscle.Client.csproj",
+  "FilePath": "d:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\MisterMuscle.Client.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "3.0",
@@ -8,101 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1623458106,
+        "HashCode": 1829713533,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Pages.Counter",
+        "Name": "MisterMuscle.Client.App",
         "AssemblyName": "MisterMuscle.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Pages.Counter"
+          "Common.TypeName": "MisterMuscle.Client.App"
         }
       },
       {
-        "HashCode": 529007232,
+        "HashCode": -1464731249,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Pages.Counter",
+        "Name": "MisterMuscle.Client.App",
         "AssemblyName": "MisterMuscle.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MisterMuscle.Client.Pages.Counter"
+            "TagName": "MisterMuscle.Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1377614450,
-        "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Pages.FetchData",
-        "AssemblyName": "MisterMuscle.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -78554149,
-        "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Pages.FetchData",
-        "AssemblyName": "MisterMuscle.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MisterMuscle.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1603649801,
-        "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Pages.Index",
-        "AssemblyName": "MisterMuscle.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 2104301829,
-        "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Pages.Index",
-        "AssemblyName": "MisterMuscle.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MisterMuscle.Client.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Pages.Index",
+          "Common.TypeName": "MisterMuscle.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -140,55 +74,101 @@
         }
       },
       {
-        "HashCode": 1717536876,
+        "HashCode": -1603649801,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Shared.SurveyPrompt",
+        "Name": "MisterMuscle.Client.Pages.Index",
         "AssemblyName": "MisterMuscle.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "MisterMuscle.Client.Pages.Index"
         }
       },
       {
-        "HashCode": 1925913288,
+        "HashCode": 2104301829,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Shared.SurveyPrompt",
+        "Name": "MisterMuscle.Client.Pages.Index",
         "AssemblyName": "MisterMuscle.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MisterMuscle.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "MisterMuscle.Client.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "MisterMuscle.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1677780306,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.Pages.Produto.CadastroDeProduto",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CadastroDeProduto"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.Pages.Produto.CadastroDeProduto"
+        }
+      },
+      {
+        "HashCode": -545200141,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.Pages.Produto.CadastroDeProduto",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MisterMuscle.Client.Pages.Produto.CadastroDeProduto"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.Pages.Produto.CadastroDeProduto",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1118352887,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.Shared.NavMenu",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 958088810,
+        "Kind": "Components.Component",
+        "Name": "MisterMuscle.Client.Shared.NavMenu",
+        "AssemblyName": "MisterMuscle.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MisterMuscle.Client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MisterMuscle.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,68 +269,88 @@
         }
       },
       {
-        "HashCode": 1118352887,
+        "HashCode": 1717536876,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Shared.NavMenu",
+        "Name": "MisterMuscle.Client.Shared.SurveyPrompt",
         "AssemblyName": "MisterMuscle.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Shared.NavMenu"
+          "Common.TypeName": "MisterMuscle.Client.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 958088810,
+        "HashCode": 1925913288,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.Shared.NavMenu",
+        "Name": "MisterMuscle.Client.Shared.SurveyPrompt",
         "AssemblyName": "MisterMuscle.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MisterMuscle.Client.Shared.NavMenu"
+            "TagName": "MisterMuscle.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.Shared.NavMenu",
+          "Common.TypeName": "MisterMuscle.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1829713533,
+        "HashCode": 694486684,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.App",
-        "AssemblyName": "MisterMuscle.Client",
+        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
+        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "ObjectGraphDataAnnotationsValidator"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.App"
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
         }
       },
       {
-        "HashCode": -1464731249,
+        "HashCode": 142234791,
         "Kind": "Components.Component",
-        "Name": "MisterMuscle.Client.App",
-        "AssemblyName": "MisterMuscle.Client",
+        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
+        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MisterMuscle.Client.App"
+            "TagName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MisterMuscle.Client.App",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -2431,39 +2431,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 694486684,
-        "Kind": "Components.Component",
-        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
-        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ObjectGraphDataAnnotationsValidator"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
-        }
-      },
-      {
-        "HashCode": 142234791,
-        "Kind": "Components.Component",
-        "Name": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
-        "AssemblyName": "Microsoft.AspNetCore.Components.DataAnnotations.Validation",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.ObjectGraphDataAnnotationsValidator",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -11848,48 +11815,43 @@
   "RootNamespace": "MisterMuscle.Client",
   "Documents": [
     {
-      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
+      "FilePath": "d:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
+      "FilePath": "d:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\Pages\\Produto\\CadastroDeProduto.razor",
+      "TargetPath": "Pages\\Produto\\CadastroDeProduto.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\Pages\\Cliente\\CadastroCliente.razor",
-      "TargetPath": "Pages\\Cliente\\CadastroCliente.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\Shared\\NavMenu.razor",
+      "FilePath": "d:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\desenvolvimentos\\MisterMuscle\\Client\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FilePath": "d:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\Pages\\Cliente\\CadastroCliente.razor",
+      "TargetPath": "Pages\\Cliente\\CadastroCliente.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "d:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "d:\\Univem\\Navarro\\misterMuscle\\mister-muscle\\Client\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     }
   ],
